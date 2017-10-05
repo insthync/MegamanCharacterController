@@ -1,0 +1,3 @@
+[submodule "MegamanCharacterController/Assets/SuperCharacterController"]
+	path = MegamanCharacterController/Assets/SuperCharacterController
+	url = https://github.com/IronWarrior/SuperCharacterController.git
